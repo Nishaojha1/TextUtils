@@ -1,3 +1,7 @@
+Glimpse of this project 
+
+![alt text](https://github.com/Nishaojha1/TextUtils/blob/master/screenshot.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
