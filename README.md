@@ -1,5 +1,7 @@
 Glimpse of this project 
 
+LINK: https://nishaojha1.github.io/TextUtils/
+
 ![alt text](https://github.com/Nishaojha1/TextUtils/blob/master/screenshot.png?raw=true)
 
 # Getting Started with Create React App
